@@ -1,0 +1,2 @@
+# MiJournal
+journal notes
